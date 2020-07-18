@@ -1,3 +1,5 @@
+![](https://github-readme-stats.vercel.app/api?username=jighdan&show_icons=true)
+
 ### Hi there 👋
 
 <!--
