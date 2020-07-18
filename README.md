@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=jighdan&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=jighdan&hide_rank=true&show_icons=true&title_color=FAF6D6&bg_color=353022&text_color=FAF6D6&icon_color=F39129)
 
 ### Hi there 👋
 
