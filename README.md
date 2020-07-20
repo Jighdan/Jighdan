@@ -1,5 +1,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=jighdan&hide_rank=true&show_icons=true&title_color=FAF6D6&bg_color=353022&text_color=FAF6D6&icon_color=F39129)
 
+<br>
+
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 ### Hi there 👋
 
 <!--
