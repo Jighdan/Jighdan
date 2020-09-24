@@ -6,7 +6,9 @@
 
 <hr>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jighdan&layout=compact&langs_count=10&hide=java,c%2b%2b,html,css,shell,tsql,shell%22%20alt=%22itsalb3rt" />
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jighdan&layout=compact&langs_count=10&hide=java,c%2b%2b,html,css,shell,tsql,shell%22%20alt=%22itsalb3rt" />
+</p>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
